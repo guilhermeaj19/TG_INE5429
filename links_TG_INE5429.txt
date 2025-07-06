@@ -1,0 +1,3 @@
+Video Apresentação: https://youtu.be/_aIH9lWYFr8
+Github: https://github.com/guilhermeaj19/TG_INE5429
+Google Colab: https://colab.research.google.com/drive/1NEr_HIRZLBO2w6sLryl73tSbZHJH0SPE?usp=sharing
